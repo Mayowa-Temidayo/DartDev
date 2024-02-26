@@ -1,3 +1,4 @@
+//declaring functions first line 2-30
 int addTwo(int num1, int num2) {
   return num1 + num2;
 }
